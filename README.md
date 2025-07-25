@@ -19,7 +19,7 @@ This will create a new Conda environment with the name ssp_env.
 
 ---
 
-### 4. **Activate the Environment**
+### 2. **Activate the Environment**
 
 After installation, activate your new environment with:
 
@@ -29,7 +29,7 @@ conda activate ssp_env
 
 ---
 
-### 5. **Done!**
+### 3. **Done!**
 
 Your environment is now ready to use, with all dependencies (including those installed via pip) preconfigured.
 
